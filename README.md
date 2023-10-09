@@ -1,6 +1,4 @@
 # Gender inequality at work - annual French report
 
-![KNIME_workflow](https://github.com/ZofiaQlt/professional_inequalities_knime/assets/67431758/c2d6a97a-6b7e-43d5-ab25-9ad1aea121bc)
+![KNIME_workflow](https://github.com/ZofiaQlt/professional_inequalities_knime/assets/67431758/77de12ee-a82b-49ab-afbe-1c98f09b3e91)
 
-
-   
