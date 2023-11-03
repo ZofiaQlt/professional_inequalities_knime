@@ -1,4 +1,4 @@
-# Diagnostic of gender inequality at work - annual French report
+# Diagnostic of gender inequality at work - annual French report 
 <br>
 
 ![knime-logo](https://github.com/ZofiaQlt/professional_inequalities_knime/assets/67431758/14e66712-5b7a-42e2-bedf-724797c9a3e6)
